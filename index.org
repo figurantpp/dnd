@@ -1,0 +1,11 @@
+#+title: Index
+#+SETUPFILE: config0.org
+
+* Characters
+
+- [[file:characters/amongus.org][Amo’on Gus]]
+- [[file:characters/monky.org][Monky]]
+- [[file:characters/misha.org][Misha]]
+- [[file:characters/kuroshi.org][Kuroshi]]
+- [[file:characters/melina.org][Melina]]
+

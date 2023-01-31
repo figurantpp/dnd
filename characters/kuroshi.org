@@ -1,0 +1,79 @@
+#+title: Kuroshi
+#+SETUPFILE: ../config1.org
+
+* Stats
+
+Nome: Kuroshi
+Classe: Rogue (Assassin)
+Raça: Kenku
+Antecedente:
+
+Level: 3
+XP: 0
+Gold:
+Inspirações: 0
+Sneak Attack: 1d6
+
+HP: 24/24
+CA: 11+4 = 15
+Armadura em uso: Leather Armor
+
+Força: 7 (-2)
+Destreza: 16+2 (+4)
+Constituição: 15 (+2)
+Carisma: 7 (-2)
+Inteligência: 14 (+2)
+Sabedoria: 14+1 (+2)
+
+* Items
+
+- (1) (a) a burglar's pack, (b) dungeoneer's pack, or (c) an explorer's pack
+- (1) Thieves' tools
+
+* Armamentos
+
+- (1) Rapier
+- (1) Shortsword
+- (1) Leather Armor
+- (2) Daggers
+
+* Magias
+
+n = número de magias no level
+
+Cantrip:
+
+* Feats
+
+* Habilidades
+
+* Raciais
+
+- Expert Forgery. You can duplicate other creatures' handwriting and craftwork. You have advantage on all checks made to produce forgeries or duplicates of existing objects.
+- Kenku Training. You are proficient in your choice of two of the following skills: Acrobatics, Deception, Stealth, and Sleight of Hand.
+- Mimicry. You can mimic sounds you have heard, including voices. A creature that hears the sounds you make can tell they are imitations with a successful Wisdom (Insight) check opposed by your Charisma (Deception) check.
+
+* De Classe
+
+- Thieves' Cant
+- Cunning Action
+- Assassinate
+
+Perícias e Proficiências: (+2)
+
+* Skills
+
+- Sleight of Hand (DEX) (x2)
+- Stealth (DEX) (x2)
+- Investigation (INT)
+- Perception (WIS)
+- Insight (WIS)
+- Persuasion (CHA)
+
+- Speed: 30 feet
+- Armor: Light armor
+- Weapons: Simple weapons, hand crossbows, longswords, rapiers, shortswords
+- Tools: Thieves' tools, disguise kit, poisoner's kit
+- Languages: Common, Auran
+- ST’s: Dexterity, Intelligence
+- Others: (edited)

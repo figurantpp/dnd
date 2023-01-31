@@ -1,0 +1,79 @@
+#+title: Amongus
+#+SETUPFILE: ../config1.org
+
+* Info
+
+** Status
+
+| Nome            | Amo’on Gus                |
+| Classe          | Fighter (Gunslinger)      |
+| Raça            | Giff                      |
+| Antecedente     | Artista                   |
+| Lvl             | 3                         |
+| XP              | 0                         |
+| Gold            |                           |
+| Insp            | 0                         |
+| Grit            | 2/2                       |
+| HP              | 28                        |
+| CA              | 16                        |
+| Armadura em uso | Chain Mail (DESV EM FURT) |
+
+** Stats
+
+| STR | 14 (+2)   |
+| DEX | 16+2 (+4) |
+| CON | 15 (+2)   |
+| CHA | 9 (-1)    |
+| INT | 7 (-2)    |
+| WIS | 13+1 (+2) |
+
+
+* Items
+
+
+* Armamento
+
+- (1) Cahin Mail Armor
+- (1) Palm Pistol
+- (20) Munição de Palm Pistol
+- (1) Pistol
+- (20) Munição de Pistol
+- (2) Machados de Arremesso
+- (1) Kit de Aventureiro
+
+* Feats
+
+* Habilidades
+
+** Raciais
+
+- Astral Spark. Your psychic connection to the Astral Plane enables you to mystically access a spark of divine power, which you can channel through your weapons. When you hit a target with a simple or martial weapon, you can cause the target to take extra force damage equal to your prociency bonus.
+You can use this trait a number of times equal to your prociency bonus, but you can use it no more than once per turn. You regain all expended uses when you finish a long rest.
+- Firearms Mastery. You have a mystical connection to rearms that traces back to the gods of the giff, who delighted in such weapons. You have prociency with all firearms and ignore the loading property of any firearms. In addition, attacking at long range with a firearm doesn’t impose disadvantage on your attack roll.
+- Hippo Build. You have advantage on Strength-based ability checks and Strength saving throws. In addition, you count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
+
+** De Classe
+
+- Estilo de Luta (Arquearia)
+- Retomar o Fôlego
+- Surto de Ação
+- Firearms Proficiency
+- Gunsmith
+- Adept Marksman
+- Trickshots: Disarming shot, Piercing shot
+
+- Perícia e Proficiência (+2)
+
+* Skills
+
+- Acrobatics (DEX)
+- Intuition (WIS)
+- Survival (WIS)
+- Performance (CHA)
+
+- Speed: 30 feet
+- Armor: Todas as armaduras, escudos
+- Weapons: Armas simples, armas marciais, armas de fogo
+- Tools: Tinker’s tools
+- Languages: Common, Giff
+- ST’s: Força, Constituição

@@ -1,0 +1,69 @@
+
+#+title: Monky
+#+SETUPFILE: ../config1.org
+
+* Info
+
+** Status
+
+| Nome            | Monky                       |
+| Classe          | Monk (Way of the Open Hand) |
+| Raça            | Tortle                      |
+| Antecedente     |                             |
+| Level           | 3                           |
+| XP              | 0                           |
+| Gold            | 0                           |
+| Inspirações     | 0                           |
+| Martial Arts    | 1d4                         |
+| Ki Points       | 3/3                         |
+| HP              | (d8) 26/26                  |
+| CA              | 17                          |
+| Armadura em uso | Tortle shell                |
+| DC              | 8+2+3 = 13                  |
+
+** Stats
+
+| Stat         | Absolute Value | Modifier |
+|--------------+----------------+----------|
+| Força        |            9+2 | (+0)     |
+| Destreza     |             17 | (+3)     |
+| Constituição |             14 | (+2)     |
+| Carisma      |             12 | (+1)     |
+| Inteligência |             12 | (+1)     |
+| Sabedoria    |           16+1 | (+3)     |
+
+* Items
+
+
+* Armamento
+
+- (1) Quarterstaff (1d6, bludgeoning, 1d8 versatile)
+- (10) Darts
+- (1) (a) a dungeoneer’s pack or (b) an explorer’s pack
+
+* Magias
+n = número de magias no level
+
+* Feats
+
+* Habilidades
+
+** Raciais
+
+- Claws. Your claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.
+- Hold Breath. You can hold your breath for up to 1 hour at a time. Tortles aren't natural swimmers, but they can remain underwater for some time before needing to come up for air.
+- Natural Armor. Due to your shell and the shape of your body, you are ill-suited to wearing armor. Your shell provides ample protection, however; it gives you a base AC of 17 (your Dexterity modifier doesn't affect this number). You gain no benefit from wearing armor, but if you are using a shield, you can apply the shield's bonus as normal.
+- Shell Defense. You can withdraw into your shell as an action. Until you emerge, you gain a +4 bonus to AC, and you have advantage on Strength and Constitution saving throws. While in your shell, you are prone, your speed is 0 and can't increase, you have disadvantage on Dexterity saving throws, you can't take reactions, and the only action you can take is a bonus action to emerge from your shell.
+
+** De Classe
+
+- Unarmored Defense
+
+- Ki
+  - Flurry of Blows, Patient Defense, and Step of the Wind
+
+- Unarmored Movement +10 feet
+
+- Deflect Missiles
+
+- Open Hand Technique

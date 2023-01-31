@@ -1,0 +1,85 @@
+#+title: Misha
+#+SETUPFILE: ../config1.org
+
+* Info
+
+** Status
+
+| Nome                  | Misha                                   |
+| Classe                | Clérigo (Light Domain)                  |
+| Raça                  | Hobgoblin                               |
+| Antecedente           | Pastor                                  |
+| Level                 | 3                                       |
+| XP                    | 0                                       |
+| Gold                  |                                         |
+| Inspirações           | 0                                       |
+| Bônus de proficiência | +2                                      |
+| HP                    | (d8) 27/27                              |
+| CA                    | 14+1 = 15                               |
+| Armadura em uso       | Scale mail (DESVANTAGEM EM FURTIVIDADE) |
+| DC                    | 8+2+2 = 12                              |
+
+** Stats
+
+| Stat         | Value | Modifier |
+| Força        |    14 | (+2)     |
+| Destreza     |    13 | (+1)     |
+| Constituição |    14 | (+2)     |
+| Carisma      |    11 | (+0)     |
+| Inteligência |     7 | (-2)     |
+| Sabedoria    |    15 | (+2)     |
+
+* Items
+
+* Armamento
+
+- (1) Warhammer (1d8 bludgeoning, 1d10 versatile)
+- (1) Light Crossbow (1d8 piercing, two-handed, 80/120)
+- (20) Bolts
+- (1) Arcane focus: Holy Symbol (eyepatch)
+- (1) (a) a priest’s pack or (b) an explorer’s pack
+- (1) Scale mail
+- (1) Shield (+2 CA)
+
+* Magias
+n = número de magias no level
+
+Cantrip:
+- Light
+- Thaumaturgy
+- Sacred Flame
+- Spare the Dying
+
+Level 1:
+- Cure Wounds (4/4)
+- Bless (4/4)
+- Healing Word (4/4)
+- Guiding Bolt (4/4)
+
+- Burning Hands (4/4)
+- Faerie FIre (4/4)
+
+Level 2:
+- Spiritual Weapon (2/2)
+- Locate Object (2/2)
+
+- Scorching Ray (2/2)
+- Flaming Sphere (2/2)
+
+* Feats
+
+* Habilidades
+
+** Raciais
+
+- Speed. Your base walking speed is 30 feet.
+- Darkvision. Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+- Saving Face. Hobgoblins are careful not to show weakness in front of their allies, for fear of losing status. If you miss with an attack roll or fail an ability check or a saving throw, you can gain a bonus to the roll equal to the number of allies you can see within 30 feet of you (maximum bonus of +5). Once you use this trait, you can't use it again until you finish a short or long rest. (1/1)
+
+** De Classe
+
+- Channel Divinity (1/1)
+ - Turn undead
+ - Radiance of the dawn
+
+- Warding Flare
