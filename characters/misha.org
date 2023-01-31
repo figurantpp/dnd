@@ -1,6 +1,9 @@
 #+title: Misha
 #+SETUPFILE: ../config1.org
 
+#+ATTR_HTML: :alt Kuroshi
+[[file:../img/misha.png]]
+
 * Info
 
 ** Status

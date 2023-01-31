@@ -15,7 +15,7 @@
         ("org-notes"
          :base-directory "~/tmp/dnd/"
          :base-extension "org"
-         :publishing-directory "~/tmp/dnd/public"
+         :publishing-directory "~/tmp/dnd-public"
          :recursive t
          :publishing-function org-html-publish-to-html
          :headline-levels 4
@@ -27,7 +27,7 @@
         ("org-static"
          :base-directory "~/tmp/dnd/"
          :base-extension "css\\|js\\|png\\|jpg\\|gif\\|pdf\\|mp3\\|ogg\\|swf"
-         :publishing-directory "~/tmp/dnd/public/"
+         :publishing-directory "~/tmp/dnd-public/"
          :recursive t
          :publishing-function org-publish-attachment
          )

@@ -1,5 +1,6 @@
-#+title: Amongus
+#+title: Amo’on Gus
 #+SETUPFILE: ../config1.org
+
 
 * Info
 

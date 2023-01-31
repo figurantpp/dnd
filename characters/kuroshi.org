@@ -1,6 +1,9 @@
 #+title: Kuroshi
 #+SETUPFILE: ../config1.org
 
+#+ATTR_HTML: :alt Kuroshi
+[[file:../img/kuroshi.png]]
+
 * Stats
 
 Nome: Kuroshi

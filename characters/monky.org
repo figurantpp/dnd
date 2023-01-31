@@ -2,6 +2,9 @@
 #+title: Monky
 #+SETUPFILE: ../config1.org
 
+#+ATTR_HTML: :alt Monky
+[[file:../img/monky.png]]
+
 * Info
 
 ** Status
