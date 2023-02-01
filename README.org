@@ -1,0 +1,8 @@
+#+title: What is this?
+
+This is just some reference for a dungeons and dragons gameplay.
+
+You can browse this documentation by accessing the
+[[file:index.org][index.org]] file or by reading online the [[https://figurantpp.github.io/dnd/][html version]].
+
+There will be updates and stuff. Eventually.

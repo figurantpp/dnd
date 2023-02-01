@@ -34,7 +34,6 @@
          :publishing-function org-publish-attachment
          )
 
-
         ))
 
 
