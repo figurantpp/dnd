@@ -4,26 +4,32 @@
 #+ATTR_HTML: :alt Melina
 [[file:../img/melina.png]]
 
-Nome: Melina
-Classe: Warlock (Hexblade)
-Raça: Tiefling (Bloodline of Dispater)
-Antecedente:
+* Info
 
-Level: 3
-XP: 0
-Gold:
-Inspirações: 0
+** Status
 
-HP: 20/20
-CA: 11+3 = 14
-Armadura em uso: Leather Armor
+| Nome            | Melina                           |
+| Classe          | Warlock (Hexblade)               |
+| Raça            | Tiefling (Bloodline of Dispater) |
+| Antecedente     |                                  |
+| Level           | 3                                |
+| XP              | 0                                |
+| Gold            |                                  |
+| Inspirações     | 0                                |
+| HP              | 20/20                            |
+| CA              | 11+3 = 14                        |
+| Armadura em uso | Leather Armor                    |
 
-Força: 7 (-2)
-Destreza: 15+1 = 16 (+3)
-Constituição: 13 (+1)
-Carisma: 16+2 = 18 (+4)
-Inteligência: 8 (-1)
-Sabedoria: 12 (+1)
+** Stats
+
+| Stat         |     Value | Modifier |
+|--------------+-----------+----------|
+| Força        |         7 | (-2)     |
+| Destreza     | 15+1 = 16 | (+3)     |
+| Constituição |        13 | (+1)     |
+| Carisma      | 16+2 = 18 | (+4)     |
+| Inteligência |         8 | (-1)     |
+| Sabedoria    |        12 | (+1)     |
 
 * Items
 

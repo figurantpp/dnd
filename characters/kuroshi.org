@@ -4,29 +4,34 @@
 #+ATTR_HTML: :alt Kuroshi
 [[file:../img/kuroshi.png]]
 
-* Stats
+* Info
 
-Nome: Kuroshi
-Classe: Rogue (Assassin)
-Raça: Kenku
-Antecedente:
+** Status
 
-Level: 3
-XP: 0
-Gold:
-Inspirações: 0
-Sneak Attack: 1d6
+| Nome            | Kuroshi          |
+| Classe          | Rogue (Assassin) |
+| Raça            | Kenku            |
+| Antecedente     |                  |
+| Level           | 3                |
+| XP              | 0                |
+| Gold            |                  |
+| Inspirações     | 0                |
+| Sneak Attack    | 1d6              |
+| HP              | 24/24            |
+| CA              | 11+4 = 15        |
+| Armadura em uso | Leather Armor    |
 
-HP: 24/24
-CA: 11+4 = 15
-Armadura em uso: Leather Armor
+** Stats
 
-Força: 7 (-2)
-Destreza: 16+2 (+4)
-Constituição: 15 (+2)
-Carisma: 7 (-2)
-Inteligência: 14 (+2)
-Sabedoria: 14+1 (+2)
+| Stat         | Value | Mofifier |
+| Força        |     7 | (-2)     |
+| Destreza     |  16+2 | (+4)     |
+| Constituição |    15 | (+2)     |
+| Carisma      |     7 | (-2)     |
+| Inteligência |    14 | (+2)     |
+| Sabedoria    |  14+1 | (+2)     |
+
+
 
 * Items
 

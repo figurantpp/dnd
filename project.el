@@ -12,6 +12,8 @@
 
 (setq org-publish-project-alist
       '(
+        ("org" :components ("org-notes" "org-static"))
+
         ("org-notes"
          :base-directory "~/tmp/dnd/"
          :base-extension "org"
@@ -32,7 +34,6 @@
          :publishing-function org-publish-attachment
          )
 
-        ("org" :components ("org-notes" "org-static"))
 
         ))
 
